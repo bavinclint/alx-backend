@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Basic dictionary"
+git commit -m "FIFO caching"
 git push
