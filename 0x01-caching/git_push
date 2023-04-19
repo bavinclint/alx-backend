@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "LRU caching"
+git commit -m "MRU caching"
 git push
