@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "LIFO caching"
+git commit -m "LRU caching"
 git push
